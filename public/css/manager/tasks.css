@@ -1,0 +1,40 @@
+.saved-tasks
+{
+    border-left: 1px solid lightgray;
+}
+
+.description
+{
+    height: 100px;
+    overflow-y: auto;
+}
+
+.task
+{
+    height: 230px;
+    padding: 10px 15px;
+    position: relative;
+    border: 1px solid lightgray;
+    margin-left: 20px;
+    border-radius: 4px;
+    margin-top:20px;
+}
+
+.time
+{
+    position: absolute;
+    bottom: 0px;
+    left:20px;
+}
+
+.activities li
+{
+    padding: 10px 0px;
+}
+
+.actions
+{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}

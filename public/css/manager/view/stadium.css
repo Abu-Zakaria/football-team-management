@@ -1,0 +1,32 @@
+.wrapper
+{
+    margin-bottom: 80px;
+}
+
+
+.photo
+{
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid darkslategrey;
+    -webkit-box-shadow: 0px 3px 6px 0px grey;
+    -moz-box-shadow: 0px 3px 6px 0px grey    ;
+    box-shadow: 0px 3px 6px 0px grey    ;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s ;
+    transition: 0.3s ;
+}
+
+.photo:hover
+{
+    -webkit-box-shadow: 0px 4px 15px 0px grey;
+    -moz-box-shadow: 0px 4px 15px 0px grey;
+    box-shadow: 0px 4px 15px 0px grey;
+}
+
+.warning
+{
+    border-bottom: 1px solid red;
+    padding: 15px;
+}

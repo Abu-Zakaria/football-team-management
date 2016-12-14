@@ -1,0 +1,36 @@
+.formation form input
+{
+	width: 40px
+}
+
+.formation form input
+{
+	padding-left: 10px;
+	border:  1px solid lightgrey;
+}
+.wrapper
+{
+	margin-bottom: 130px;
+}
+
+::selection
+{
+	background: skyblue;
+	color: black;
+}
+
+.info
+{
+	background: lightblue;
+	width: 100%;
+	padding: 5px 10px;
+	border-radius: 2px;
+	box-shadow: 0px 2px 7px 0px grey;
+	margin-bottom: 20px;
+}
+
+.info::selection
+{
+	background: skyblue;
+	color :black;
+}

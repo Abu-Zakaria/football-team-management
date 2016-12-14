@@ -1,0 +1,21 @@
+.wrapper
+{
+
+}
+
+form
+{
+	margin-bottom: 60px;
+}
+
+.select-roll
+{
+
+	height: 40px;
+}
+
+option
+{
+	background: #ddd;
+	color: black;
+}

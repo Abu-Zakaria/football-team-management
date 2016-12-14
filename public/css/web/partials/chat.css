@@ -1,0 +1,9 @@
+.chat
+{
+    background: #5c6bc0;
+    position: fixed;
+    bottom:0px;
+    right: 20px;
+    height:200px;
+    width: 300px;
+}

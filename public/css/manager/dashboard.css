@@ -1,0 +1,19 @@
+body
+{
+	font-family: Roboto-Light;
+}
+
+.tasks
+{
+	margin-left: 5%;
+	width:90%;
+}
+
+
+.finance-row
+{
+	width: 100%;
+	display: block;
+	margin: 10px 2px;
+	float: none;
+}

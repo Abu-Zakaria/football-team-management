@@ -1,0 +1,60 @@
+.menu-area a
+{
+    background: #ffd740;
+    padding: 10px 20px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    color: #000;
+    margin-left: 10px;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s ;
+    -ms-transition: 0.3s ;
+    -o-transition: 0.3s ;
+    transition: 0.3s ;
+}
+
+.menu-area a:hover
+{
+    background-color: #87eb76;
+}
+
+.nav-bar
+{
+    z-index: 100;
+    position: fixed;
+    top:0px;
+    left:0px;
+    padding: 30px 10px;
+    background: #000;
+    -webkit-box-shadow: 0px 10px 20px 4px grey;
+    -moz-box-shadow: 0px 10px 20px 4px grey    ;
+    box-shadow: 0px 10px 20px 4px grey    ;
+}
+
+.auth-area a
+{
+    background: #abf8ab;
+    padding: 10px 20px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    color: #000;
+    margin-left: 10px;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s ;
+    -ms-transition: 0.3s ;
+    -o-transition: 0.3s ;
+    transition: 0.3s ;
+}
+
+.auth-area a:hover
+{
+    background: #c5a5f6;
+}
+
+.first_name
+{
+    color: white;
+    margin-right: 20px;
+}
